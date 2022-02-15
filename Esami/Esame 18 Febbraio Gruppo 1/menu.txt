@@ -1,0 +1,8 @@
+vitello 15.45
+spaghetti 3.39
+burrata 34.43
+agnello 23.32
+bistecca 13.34
+vino 123.34
+pomodorini 12.23
+manzo 234.34
