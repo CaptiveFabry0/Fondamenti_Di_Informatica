@@ -1,0 +1,5 @@
+rovega 1 12.78 1
+hisense 0 123.3 1
+samsung 2 134 1
+roventa 2 12.78 1
+vileda 3 1324.4 1

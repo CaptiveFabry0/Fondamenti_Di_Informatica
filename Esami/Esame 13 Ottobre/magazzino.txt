@@ -1,0 +1,6 @@
+2.25 1 marvega 1
+10.75 2 edinson 0
+139.23 2 akimbo 1
+29 4 mazda 1
+23.45 3 sensibo 0
+29 1 hue 1
